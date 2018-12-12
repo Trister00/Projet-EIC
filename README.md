@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## La version d'Angular est 6.1.1
 
-Dans le Terminal :
-ng -v -> Donne la version d'Angular CLI dans votre systeme \n
-si elle est differente de 6.1.1:\n
-1)npm uninstall @angular/cli\n
-2)npm cache clean\n
+Dans le Terminal :##
+ng -v -> Donne la version d'Angular CLI dans votre systeme ##
+si elle est differente de 6.1.1:
+1)npm uninstall @angular/cli
+2)npm cache clean
 3)npm install -g @angular/cli@6.1.1
 
 ## Pour la Partie CSS :
