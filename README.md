@@ -2,9 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
-## Development server
+## La version d'Angular est 6.1.1
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Dans le Terminal :
+ng -v -> Donne la version d'Angular CLI dans votre systeme
+si elle est differente de 6.1.1:
+1)npm uninstall @angular/cli
+2)npm cache clean
+3)npm install -g @angular/cli@6.1.1
+
+##Pour la Partie CSS:
+Au lieu de Bootstrap,Ce projet utilisera le Framework Bulma;il est presque semblable avec bootstrap avec l'avantage de l'abscence de JavaScript dedans.
 
 ## Code scaffolding
 
