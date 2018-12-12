@@ -11,10 +11,11 @@ si elle est differente de 6.1.1:
 2)npm cache clean
 3)npm install -g @angular/cli@6.1.1
 
-##Pour la Partie CSS:
+## Pour la Partie CSS :
+
 Au lieu de Bootstrap,Ce projet utilisera le Framework Bulma;il est presque semblable avec bootstrap avec l'avantage de l'abscence de JavaScript dedans.
 
-## Code scaffolding
+## Code scaffolding  Pour la Partie CSS :
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
