@@ -18,7 +18,7 @@ ng -v -> Donne la version d'Angular CLI dans votre systeme si elle est different
 
 Au lieu de Bootstrap,Ce projet utilisera le Framework Bulma;il est presque semblable avec bootstrap avec l'avantage de l'abscence de JavaScript dedans.
 
-## Code scaffolding  Pour la Partie CSS :
+## Code scaffolding :
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
